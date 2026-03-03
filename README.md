@@ -37,3 +37,4 @@ Yazılımın dışında bir **Elden Ring** ve **Genshin Impact** tutkunuyum. Ken
 
 ---
 *"İyi bir arayüz, açıklanmaya ihtiyaç duymayan bir şakadır."*
+![ZenYx's Trophies](https://github-profile-trophy.vercel.app/?username=ZenYx53&theme=tokyonight)
