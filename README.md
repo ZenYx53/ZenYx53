@@ -15,7 +15,6 @@ Fırat Üniversitesi'nde **Bilgisayar Mühendisliği** öğrencisi ve tutkulu bi
 - ⚡ **React.js:** Frontend yeteneklerimi bir adım öteye taşımak için modern kütüphanelere odaklanıyorum.
 - 🎨 **UI/UX Design:** Figma üzerinde kullanıcı dostu tasarımlar yapmayı öğreniyorum.
 - sözde bide üniversitenin java dersleri var :D
-### 📊 GitHub Activity
 
 ### 📂 Öne Çıkan Projeler
 | Proje | Açıklama | Teknoloji | Link |
@@ -23,6 +22,7 @@ Fırat Üniversitesi'nde **Bilgisayar Mühendisliği** öğrencisi ve tutkulu bi
 | **ZenYxTR** | Topluluk odaklı frontend çözümleri ve yönetim araçları. | `CSS` `JS` | [İncele](https://zenyx.com.tr) |
 | **djmarul** | SQLite tabanlı, performans odaklı gelişmiş Discord botu. | `Python` `SQLite` | [Repo](#) |
 
+### 📊 GitHub Activity
 | | |
 | :---: | :---: |
 | <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ZenYx53&show_icons=true&theme=react&hide_border=true" width="100%" /> | <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ZenYx53&layout=compact&theme=react&hide_border=true" width="100%" /> |
