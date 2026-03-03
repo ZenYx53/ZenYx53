@@ -14,8 +14,13 @@ Fırat Üniversitesi'nde **Bilgisayar Mühendisliği** öğrencisi ve tutkulu bi
 ### 📊 GitHub Activity
 
 <p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ZenYx53&show_icons=true&theme=react&hide_border=true" />
-  <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZenYx53&layout=compact&theme=react&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ZenYx53&show_icons=true&theme=react&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ZenYx53&layout=compact&theme=react&hide_border=true" width="43%" />
+</p>
+
+### 🛠️ Tech Stack & Skills
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,sass,github,vscode,discord" />
 </p>
 
 ### 🎮 Gaming & Lifestyle
