@@ -9,12 +9,12 @@ Fırat Üniversitesi'nde **Bilgisayar Mühendisliği** öğrencisi ve tutkulu bi
 
 ### 🛠️ Tech Stack
 - **Diller & İşaretleme:** ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-- **Araçlar:** Tailwind, SASS, BetterDiscord, PowerToys, OBS (Custom CSS)
+- **Araçlar:** SASS, BetterDiscord, PowerToys, OBS (Custom CSS)
 
 ### 📚 Şu An Kendimi Geliştirdiğim Alanlar
 - ⚡ **React.js:** Frontend yeteneklerimi bir adım öteye taşımak için modern kütüphanelere odaklanıyorum.
 - 🎨 **UI/UX Design:** Figma üzerinde kullanıcı dostu tasarımlar yapmayı öğreniyorum.
-- 
+- sözde bide üniversitenin java dersleri var :D
 ### 📊 GitHub Activity
 
 | | |
