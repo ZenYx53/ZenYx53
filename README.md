@@ -12,12 +12,10 @@ Fırat Üniversitesi'nde **Bilgisayar Mühendisliği** öğrencisi ve tutkulu bi
 - **Araçlar:** Tailwind, SASS, BetterDiscord, PowerToys, OBS (Custom CSS)
 
 ### 📊 GitHub Activity
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=ZenYx53&show_icons=true&theme=react&hide_border=true" alt="ZenYx53 Stats" />
-</p>
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZenYx53&layout=compact&theme=react&hide_border=true" alt="ZenYx53 Top Langs" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ZenYx53&show_icons=true&theme=react&hide_border=true" />
+  <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZenYx53&layout=compact&theme=react&hide_border=true" />
 </p>
 
 ### 🎮 Gaming & Lifestyle
