@@ -1,16 +1,27 @@
-## Hi there 👋
+# Selam! Ben ZenYx 👋
 
-<!--
-**ZenYx53/ZenYx53** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Fırat Üniversitesi'nde **Bilgisayar Mühendisliği** öğrencisi ve tutkulu bir **Frontend Developer** adayıyım. Kullanıcı deneyimini (UX) ön planda tutan, estetik ve işlevsel arayüzler tasarlamayı seviyorum.
 
-Here are some ideas to get you started:
+### 🎨 Neler Yapıyorum?
+- ✨ **Arayüz Tasarımı:** Restream ve CSS kullanarak kişiselleştirilmiş stream overlay'leri ve dinamik chat kutuları geliştiriyorum.
+- 🚀 **Modern Web:** Tasarımlarımı koda dökerken temiz ve sürdürülebilir CSS/JS yapıları kurmaya odaklanıyorum.
+- 🛠️ **Topluluk Araçları:** **ZenYxTR discord botumla** ve **djmarul** projelerimde kullanıcı etkileşimini artıracak frontend çözümleri üretiyorum.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+- **Diller & İşaretleme:** HTML5, CSS, JavaScript (ES6+)
+- **Araçlar & Özelleştirme:** Tailwind / SASS, BetterDiscord Themes, PowerToys
+- **Yayın Teknolojileri:** Custom CSS Overlays, OBS Integration
+
+### 📊 GitHub Activity
+![ZenYx's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZenYx53&show_icons=true&theme=react)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZenYx53&layout=compact&theme=react)
+
+### 🎮 Gaming & Lifestyle
+Yazılımın dışında bir **Elden Ring** ve **Genshin Impact** tutkunuyum. Kendi ufak programlarımı oluşturmak ve sistem optimizasyonu hobilerim arasında. Estetik bakış açımı sadece kodda değil, setup'ımda da kullanmayı seviyorum.
+
+### 📫 İletişim
+- 🌐 **Portfolio:** [zenyx.com.tr](https://zenyx.com.tr)
+- 🎥 **YouTube:** [ZenYx](https://youtube.com/@ZenYx-abc1)
+- 💬 **Discord:** tynjxxx
+---
+*"İyi bir arayüz, açıklanmaya ihtiyaç duymayan bir şakadır."*
