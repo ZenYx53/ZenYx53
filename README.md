@@ -22,6 +22,11 @@ Fırat Üniversitesi'nde **Bilgisayar Mühendisliği** öğrencisi ve tutkulu bi
   <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,sass,github,vscode,discord" />
 </p>
 
+### ⚙️ Tercih Ettiğim Ortam
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
 ### 🎮 Gaming & Lifestyle
 Yazılımın dışında bir **Elden Ring** ve **Genshin Impact** tutkunuyum. Kendi ufak programlarımı oluşturmak ve sistem optimizasyonu hobilerim arasında. Estetik bakış açımı sadece kodda değil, setup'ımda da kullanmayı seviyorum.
 
