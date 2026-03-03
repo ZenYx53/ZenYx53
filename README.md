@@ -11,6 +11,10 @@ Fırat Üniversitesi'nde **Bilgisayar Mühendisliği** öğrencisi ve tutkulu bi
 - **Diller & İşaretleme:** ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 - **Araçlar:** Tailwind, SASS, BetterDiscord, PowerToys, OBS (Custom CSS)
 
+### 📚 Şu An Kendimi Geliştirdiğim Alanlar
+- ⚡ **React.js:** Frontend yeteneklerimi bir adım öteye taşımak için modern kütüphanelere odaklanıyorum.
+- 🎨 **UI/UX Design:** Figma üzerinde kullanıcı dostu tasarımlar yapmayı öğreniyorum.
+- 
 ### 📊 GitHub Activity
 
 | | |
@@ -37,4 +41,3 @@ Yazılımın dışında bir **Elden Ring** ve **Genshin Impact** tutkunuyum. Ken
 
 ---
 *"İyi bir arayüz, açıklanmaya ihtiyaç duymayan bir şakadır."*
-![ZenYx's Trophies](https://github-profile-trophy.vercel.app/?username=ZenYx53&theme=tokyonight)
