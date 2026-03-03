@@ -5,23 +5,28 @@ Fırat Üniversitesi'nde **Bilgisayar Mühendisliği** öğrencisi ve tutkulu bi
 ### 🎨 Neler Yapıyorum?
 - ✨ **Arayüz Tasarımı:** Restream ve CSS kullanarak kişiselleştirilmiş stream overlay'leri ve dinamik chat kutuları geliştiriyorum.
 - 🚀 **Modern Web:** Tasarımlarımı koda dökerken temiz ve sürdürülebilir CSS/JS yapıları kurmaya odaklanıyorum.
-- 🛠️ **Topluluk Araçları:** **ZenYxTR discord botumla** ve **djmarul** projelerimde kullanıcı etkileşimini artıracak frontend çözümleri üretiyorum.
+- 🛠️ **Topluluk Araçları:** **ZenYxTR** discord botum ve **djmarul** projelerimde kullanıcı etkileşimini artıracak çözümler üretiyorum.
 
 ### 🛠️ Tech Stack
-- **Diller & İşaretleme:** HTML5, CSS, JavaScript (ES6+)
-- **Araçlar & Özelleştirme:** Tailwind / SASS, BetterDiscord Themes, PowerToys
-- **Yayın Teknolojileri:** Custom CSS Overlays, OBS Integration
+- **Diller & İşaretleme:** ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+- **Araçlar:** Tailwind, SASS, BetterDiscord, PowerToys, OBS (Custom CSS)
 
 ### 📊 GitHub Activity
-![ZenYx's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZenYx53&show_icons=true&theme=react)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZenYx53&layout=compact&theme=react)
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=ZenYx53&show_icons=true&theme=react&hide_border=true" alt="ZenYx53 Stats" />
+</p>
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZenYx53&layout=compact&theme=react&hide_border=true" alt="ZenYx53 Top Langs" />
+</p>
 
 ### 🎮 Gaming & Lifestyle
 Yazılımın dışında bir **Elden Ring** ve **Genshin Impact** tutkunuyum. Kendi ufak programlarımı oluşturmak ve sistem optimizasyonu hobilerim arasında. Estetik bakış açımı sadece kodda değil, setup'ımda da kullanmayı seviyorum.
 
 ### 📫 İletişim
 - 🌐 **Portfolio:** [zenyx.com.tr](https://zenyx.com.tr)
-- 🎥 **YouTube:** [ZenYx](https://youtube.com/@ZenYx-abc1)
-- 💬 **Discord:** tynjxxx
+- 🎥 **YouTube:** [@ZenYx-abc1](https://youtube.com/@ZenYx-abc1)
+- 💬 **Discord:** `tynjxxx`
+
 ---
 *"İyi bir arayüz, açıklanmaya ihtiyaç duymayan bir şakadır."*
