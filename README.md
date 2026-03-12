@@ -20,7 +20,7 @@ Fırat Üniversitesi'nde **Bilgisayar Mühendisliği** öğrencisi ve tutkulu bi
 | Proje | Açıklama | Teknoloji | Link |
 | :--- | :--- | :--- | :--- |
 | **ZenYxTR** | Topluluk odaklı frontend çözümleri ve yönetim araçları. | `CSS` `JS` | [İncele](https://zenyx.com.tr) |
-| **djmarul** | SQLite tabanlı, performans odaklı gelişmiş Discord botu. | `Python` `SQLite` | [Repo](#) |
+| **J.A.R.V.İ.S.** | Topluluk odaklı frontend çözümleri ve yönetim araçları. | `CSS` `JS` `SQLite` `Python` `Ts`| [İncele](https://jarvisbot.com.tr) |
 
 ### 📊 GitHub Activity
 | | |
